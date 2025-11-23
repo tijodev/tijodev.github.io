@@ -1,0 +1,20 @@
+# Site settings
+title: DR. TIJO D - Mechanical Engineering
+email: tijodev@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website and academic profile of Dr. Tijo D, specializing in Production Engineering, 
+  Advanced Metal Joining, and Non-Conventional Machining Processes.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: # Add your GitHub username here
+linkedin_username: # Add your LinkedIn profile handle here
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal # A simple, clean, mobile-responsive theme
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
