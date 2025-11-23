@@ -1,20 +1,29 @@
 # Site settings
-title: DR. TIJO D - Mechanical Engineering
+title: DR. TIJO D - Production Engineering Researcher
 email: tijodev@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # Minima uses this for SEO and the site footer
   Personal website and academic profile of Dr. Tijo D, specializing in Production Engineering, 
-  Advanced Metal Joining, and Non-Conventional Machining Processes.
-
+  Advanced Metal Joining, Non-Conventional Machining, and Surface Coatings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: # Add your GitHub username here
-linkedin_username: # Add your LinkedIn profile handle here
+url: "" # the base hostname & protocol for your site
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal # A simple, clean, mobile-responsive theme
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
 
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Minima theme specific settings:
+
+# Minima: Header and Social Links
+header_pages:
+  - index.md
+  - publications.md
+  - projects.md
+  - references.md
+
+minima:
+  # Add your professional links here. They will appear in the footer.
+  social_links:
+    linkedin: # Add your LinkedIn profile handle here
+    github: # Add your GitHub username here
+    # Use the email defined above for the email icon
