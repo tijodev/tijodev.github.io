@@ -15,7 +15,7 @@ A highly qualified academic and researcher in Mechanical Engineering with a spec
 I have over 5 years of teaching and research experience as an **Assistant Professor (Senior)** at Saintgits College of Engineering, Kottayam, Kerala (Feb 2019-Present). I hold a **PhD** in Mechanical Engineering from NIT Rourkela. My core expertise lies in:
 
 * **Non-Conventional Machining**, **TIG Processes**, and **Tribology**.
-* Successfully coordinating the **NBA Tier-1 accreditation process** in the Mechanical Engineering Department (April 2025).
+* Successfully coordinated the **NBA Tier-1 accreditation process** in the Mechanical Engineering Department (April 2025).
 * Guiding numerous **UG and PG research projects**.
 
 ---
