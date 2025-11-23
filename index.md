@@ -35,7 +35,6 @@ I have over 5 years of teaching and research experience as an **Assistant Profes
 * Recipient of the **'Indian Institute Welding's (IIW) Young Engineers Award'**.
 * Awarded **Best Conference Paper** for "TiC Coating on Aluminum by Tungsten Inert Gas (TIG) Cladding Process".
 * Achieved **GATE All India Rank of 3669** in Mechanical Engineering in 2012.
-* Graduation honors in Mechanical Engineering from 'The Institution of Engineers (India)'.
 
 ---
 
