@@ -14,7 +14,7 @@ plugins:
 
 # Minima theme specific settings:
 
-# Minima: Header and Social Links
+# Minima: Header and Social Links (These will appear in the main navigation bar)
 header_pages:
   - index.md
   - publications.md
@@ -22,8 +22,8 @@ header_pages:
   - references.md
 
 minima:
-  # Add your professional links here. They will appear in the footer.
+  # Add your professional links here. They will appear as icons in the footer.
   social_links:
-    linkedin: # Add your LinkedIn profile handle here
-    github: # Add your GitHub username here
-    # Use the email defined above for the email icon
+    linkedin: # ADD YOUR LINKEDIN PROFILE HANDLE HERE
+    github: # ADD YOUR GITHUB USERNAME HERE
+    # The email icon uses the 'email' defined above.
